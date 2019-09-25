@@ -36,53 +36,6 @@
 
 <items>
  <item>
-      <title>[COLOR orange]Zorro Tv[/COLOR]</title>
-      <thumbnail>http://kodi-zorro.com/kodi/Slike/Kodi/Addon/icon.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://kodi-zorro.com/kodi/Zorro-tv/menizorro.txt</externallink>
-</item>
-</items>
-
-<items>
- <item>
-      <title>[COLOR lime]RobinHood[/COLOR]</title>
-      <thumbnail>http://kodi-zorro.com/kodi/Slike/RobinHood.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/menu.xml</externallink>
-</item>
-</items>
-
-
-
-<items>
- <item>
-      <title>[COLOR gold]Pavoo Tv[/COLOR]</title>
-      <thumbnail>http://kodi-zorro.com/kodi/Slike/Pavo.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://pavootv.com/PAVOOTV/menu2.xml</externallink>
-</item>
-</items>
-
-<items>
- <item>
-      <title>[COLOR pink]Nevena[/COLOR]</title>
-      <thumbnail>http://kodibalkan.com/repo/programi/plugin.video.Nevena/icon.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://kodibalkan.com/NevenaTv/IPTVNEVENA.xml</externallink>
-</item>
-</items>
-
-<items>
- <item>
-      <title>[COLOR blue]Davor Tv[/COLOR]</title>
-      <thumbnail>http://davor.live/Slike/Davor%20Tv.jpg</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://davor.live/Addon/Meni2.xml</externallink>
-</item>
-</items>
-
-<items>
- <item>
       <title>[COLOR yellow]ZeusTV[/COLOR]</title>
       <thumbnail>http://psyco.tv/zeus.png</thumbnail>
       <link>http://ignoreme</link>
