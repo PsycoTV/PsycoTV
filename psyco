@@ -3,7 +3,7 @@
       <title>[B][COLOR white]PsycoTV LiveTV[/COLOR][/B]</title>
       <thumbnail>http://psyco.tv/icon.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/menu</externallink>
+      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/tv</externallink>
 </item>
 </items>
 
@@ -48,7 +48,7 @@
       <title>[COLOR lime]RobinHood[/COLOR]</title>
       <thumbnail>http://kodi-zorro.com/kodi/Slike/RobinHood.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/world.xml</externallink>
+      <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/menu.xml</externallink>
 </item>
 </items>
 
@@ -84,17 +84,17 @@
 <items>
  <item>
       <title>[COLOR yellow]ZeusTV[/COLOR]</title>
-      <thumbnail>http://davor.live/Slike/Davor%20Tv.jpg</thumbnail>
+      <thumbnail>http://psyco.tv/zeus.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://davor.live/Addon/Meni2.xml</externallink>
+      <externallink>https://pastebin.com/raw/XCGdehxa</externallink>
 </item>
 </items>
 
 <items>
  <item>
       <title>[COLOR grey]WagasWorld Livestreams[/COLOR]</title>
-      <thumbnail>http://alsolut-kodi.com/repository/plugin.video.wagasworld/icon.png</thumbnail>
+      <thumbnail>http://absolut-kodi.com/repository/plugin.video.wagasworld/icon.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://absolut-kodi.cim/waga/wwstreams9.2019.xml</externallink>
+      <externallink>http://absolut-kodi.cim/waga/wwstreams9-2019.xml</externallink>
 </item>
 </items>
