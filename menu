@@ -1,11 +1,100 @@
-<item> <item> <title>PsycoTV 1 [B][COLORgreen]German TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/1.m3u</externallink> <info></info> <item> 
+<items>
+ <item>
+      <title>[B][COLOR white]PsycoTV LiveTV[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/icon.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/tv</externallink>
+</item>
+</items>
 
-<item> <item> <title>PsycoTV 2 [B][COLORgreen]German TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/2.m3u</externallink> <info></info> <item>
+<items>
+ <item>
+      <title>[B][COLOR white]PsycoTV VOD[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/icon.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/vod</externallink>
+</item>
+</items>
 
-<item> <item> <title>PsycoTV 3 [B][COLORgreen]German TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/3.m3u</externallink> <info></info> <item>
+<items>
+ <item>
+      <title>[B][COLOR white]PsycoTV [/COLOR][COLOR red]XXX[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/icon.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/xxx</externallink>
+</item>
+</items>
 
-<item> <item> <title>PsycoTV 4 [B][COLORgreen]German TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/4.m3u</externallink> <info></info> <item>
+<items>
+ <item>
+      <title>[COLOR red]VooDoo-TV[/COLOR]</title>
+      <thumbnail>http://psyco.tv/voodoo.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
+</item>
+</items>
 
-<item> <item> <title>PsycoTV 5 [B][COLORgreen]XXX VOD[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/xxx.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/xxx.png</fanart> <externallink>http://psyco.tv/m3us2/5.m3u</externallink> <info></info> <item>
+<items>
+ <item>
+      <title>[COLOR orange]Zorro Tv[/COLOR]</title>
+      <thumbnail>http://kodi-zorro.com/kodi/Slike/Kodi/Addon/icon.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/kodi/Zorro-tv/menizorro.txt</externallink>
+</item>
+</items>
 
-<item> <item> <title>PsycoTV 6 [B][COLORgreen]XXX VOD[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/xxx.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/xxx.png</fanart> <externallink>http://psyco.tv/m3us2/6.m3u</externallink> <info></info> <item>
+<items>
+ <item>
+      <title>[COLOR lime]RobinHood[/COLOR]</title>
+      <thumbnail>http://kodi-zorro.com/kodi/Slike/RobinHood.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/menu.xml</externallink>
+</item>
+</items>
+
+
+
+<items>
+ <item>
+      <title>[COLOR gold]Pavoo Tv[/COLOR]</title>
+      <thumbnail>http://kodi-zorro.com/kodi/Slike/Pavo.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://pavootv.com/PAVOOTV/menu2.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[COLOR pink]Nevena[/COLOR]</title>
+      <thumbnail>http://kodibalkan.com/repo/programi/plugin.video.Nevena/icon.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://kodibalkan.com/NevenaTv/IPTVNEVENA.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[COLOR blue]Davor Tv[/COLOR]</title>
+      <thumbnail>http://davor.live/Slike/Davor%20Tv.jpg</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://davor.live/Addon/Meni2.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[COLOR yellow]ZeusTV[/COLOR]</title>
+      <thumbnail>http://psyco.tv/zeus.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://pastebin.com/raw/XCGdehxa</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[COLOR grey]WagasWorld Livestreams[/COLOR]</title>
+      <thumbnail>http://absolut-kodi.com/repository/plugin.video.wagasworld/icon.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://absolut-kodi.com/waga/wwstreams9-2019.xml</externallink>
+</item>
+</items>
