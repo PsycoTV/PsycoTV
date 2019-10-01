@@ -36,15 +36,6 @@
 
 <items>
  <item>
-      <title>[COLOR orange]Zorro Tv[/COLOR]</title>
-      <thumbnail>http://kodi-zorro.com/kodi/Slike/Kodi/Addon/icon.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://kodi-zorro.com/kodi/Zorro-tv/menizorro.mp4</externallink>
-</item>
-</items>
-
-<items>
- <item>
       <title>[COLOR lime]RobinHood[/COLOR]</title>
       <thumbnail>http://kodi-zorro.com/kodi/Slike/RobinHood.png</thumbnail>
       <link>http://ignoreme</link>
