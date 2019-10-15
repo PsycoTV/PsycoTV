@@ -7,23 +7,20 @@
 </item>
 </items>
 
-<items>
- <item>
-      <title>[B][COLOR white]PsycoTV [/COLOR][COLOR red]XXX[/COLOR][/B]</title>
-      <thumbnail>http://psyco.tv/icon.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/xxx</externallink>
-</item>
-</items>
+
+
 
 <items>
  <item>
-      <title>[COLOR red]VooDoo-TV[/COLOR]</title>
-      <thumbnail>http://psyco.tv/voodoo.png</thumbnail>
+      <title>[COLOR violet]Samsung Freak TV[/COLOR]</title>
+      <thumbnail>http://psyco.tv/sam.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
+      <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/TheSamsungFreakTVMenueTEST</externallink>
 </item>
 </items>
+
+
+
 
 <items>
  <item>
@@ -54,12 +51,12 @@
 </item>
 </items>
 
-
 <items>
  <item>
-      <title>[COLOR violet]Samsung Freak TV[/COLOR]</title>
-      <thumbnail>http://psyco.tv/sam.png</thumbnail>
+      <title>[COLOR red]VooDoo-TV[/COLOR]</title>
+      <thumbnail>http://psyco.tv/voodoo.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/TheSamsungFreakTVMenueTEST</externallink>
+      <externallink>https://pastebin.com/raw/i8FQWG7X</externallink>
 </item>
 </items>
+
