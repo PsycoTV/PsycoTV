@@ -7,7 +7,14 @@
 </item>
 </items>
 
-
+<items>
+ <item>
+ <title>[B][COLOR white]PsycoTV VOD[/COLOR][/B]</title>
+ <thumbnail>http://psyco.tv/icon.png</thumbnail>
+ <link>http://ignoreme</link>
+ <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/vod</externallink>
+</item>
+</items>
 
 
 <items>
