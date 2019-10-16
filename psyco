@@ -12,7 +12,7 @@
  <title>[B][COLOR white]PsycoTV VOD[/COLOR][/B]</title>
  <thumbnail>http://psyco.tv/icon.png</thumbnail>
  <link>http://ignoreme</link>
- <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/vod</externallink>
+ <externallink>http://psyco.tv/m3u2/vod.m3u</externallink>
 </item>
 </items>
 
