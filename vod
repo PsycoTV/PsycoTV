@@ -1,28 +1,13 @@
 
 <item>
-<title>PsycoTV [B][COLORgreen]German VOD 1[/COLOR][/B]</title>
+<title>PsycoTV [B][COLORgreen]German VOD[/COLOR][/B]</title>
 <link>http://ignorname</link>
 <thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>
-<externallink>http://ghost-repo.de/Ghost_Portal/GhostVOD/filmedeutsch.txt</externallink>
+<externallink>http://psyco.tv/m3u2/vod.m3u</externallink>
 </item>
 
 
 
-
-<item>
-<title>PsycoTV [B][COLORgreen]German VOD 2[/COLOR][/B]</title>
-<link>http://ignorname</link>
-<thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>
-<externallink>http://ghost-repo.de/Ghost_Portal/GhostVOD/classicfilme.txt</externallink>
-</item>
-
-
-<item>
-<title>PsycoTV [B][COLORgreen]German VOD Doku[/COLOR][/B]</title>
-<link>http://ignorname</link>
-<thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>
-<externallink>http://ghost-repo.de/Ghost_Portal/Dokustream/dokuvod.txt</externallink>
-</item>
 
 
 
@@ -32,5 +17,5 @@
 <title>PsycoTV [B][COLORgreen]German [/COLOR][COLOR blue]K[/COLOR][COLOR lime]I[/COLOR][COLOR red]D[/COLOR][COLOR gold]S[/COLOR][COLORgreen] VOD[/COLOR][/B]</title>
 <link>http://ignorname</link>
 <thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>
-<externallink>http://ghost-repo.de/Ghost_Portal/Kids/kidsfilme.txt</externallink>
+<externallink>http://psyco.tv/m3u2/kids.m3u</externallink>
 </item>
