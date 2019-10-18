@@ -11,6 +11,16 @@
 
 <items>
  <item>
+      <title>[COLOR green]SGK-Portal[/COLOR]</title>
+      <thumbnail>http://psyco.tv/sgk.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://sgkodi.de/SGK-Portal/portal.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
       <title>[COLOR violet]Samsung Freak TV[/COLOR]</title>
       <thumbnail>http://psyco.tv/sam.png</thumbnail>
       <link>http://ignoreme</link>
