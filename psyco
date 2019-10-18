@@ -34,10 +34,20 @@
 
 <items>
  <item>
-      <title>[COLOR gold]Pavoo Tv[/COLOR]</title>
+      <title>[COLOR gold]Pavoo TV[/COLOR]</title>
       <thumbnail>http://pavootv.com/repo/icon.png</thumbnail>
       <link>http://ignoreme</link>
       <externallink>http://pavootv.com/PAVOOTV/menu2.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
+ <title>[COLOR blue]Skynet TV[/COLOR]</title>
+ <thumbnail>http://psyco.tv/skynet.png</thumbnail>
+ <link>http://ignoreme</link>
+ <externallink>https://dtrsa.dj-btronic.de/upload/tvtxt</externallink>
 </item>
 </items>
 
