@@ -54,19 +54,10 @@
 
 <items>
  <item>
- <title>[COLOR blue]Skynet TV[/COLOR]</title>
- <thumbnail>http://psyco.tv/skynet.png</thumbnail>
- <link>http://ignoreme</link>
- <externallink>https://dtrsa.dj-btronic.de/upload/tvtxt</externallink>
-</item>
-</items>
-
-<items>
- <item>
       <title>[COLOR grey]WagasWorld Livestreams[/COLOR]</title>
       <thumbnail>http://absolut-kodi.com/repository/plugin.video.wagasworld/icon.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://wagasworld.com/Kodi/wagasworld.xml</externallink>
+      <externallink>https://bit.ly/2Owqto8</externallink>
 </item>
 </items>
 
