@@ -7,6 +7,8 @@
 <item> <item> <title>PsycoTV 4 [B][COLORgreen]German TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/4.m3u</externallink> <info></info> <item>
 
 
+<item> <item> <title>PsycoTV [B][COLORblue]German VOD[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gervod.png</fanart> <externallink>http://psyco.tv/m3us2/vod.m3u</externallink> <info></info> <item>
+
 
 <items>
  <item>
