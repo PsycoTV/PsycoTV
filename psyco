@@ -7,11 +7,14 @@
 </item>
 </items>
 
-
+<items> <item> <title>[B][COLOR green]OE THE HUAN[/COLOR][/B]</title>
+ <thumbnail>http://psyco.tv/m3us2/oe.jpg</thumbnail> 
+<link>http://ignoreme</link> 
+<externallink>http://psyco.tv/m3us2/oe.m3u</externallink></item></items>
 
 <items>
  <item>
-      <title>[COLOR green]SGK-Portal[/COLOR]</title>
+      <title>[COLOR blue]SGK-Portal[/COLOR]</title>
       <thumbnail>http://psyco.tv/sgk.png</thumbnail>
       <link>http://ignoreme</link>
       <externallink>http://sgkodi.de/SGK-Portal/portal.xml</externallink>
