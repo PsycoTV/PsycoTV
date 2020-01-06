@@ -7,14 +7,6 @@
 </item>
 </items>
 
-<items>
- <item>
-      <title>[COLOR blue]SGK-Portal[/COLOR]</title>
-      <thumbnail>http://psyco.tv/sgk.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>http://sgkodi.de/SGK-Portal/portal.xml</externallink>
-</item>
-</items>
 
 
 <items>
@@ -39,6 +31,15 @@
 </item>
 </items>
 
+
+<items>
+ <item>
+      <title>[COLOR blue]SGK-Portal[/COLOR]</title>
+      <thumbnail>http://psyco.tv/sgk.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://sgkodi.de/SGK-Portal/portal.xml</externallink>
+</item>
+</items>
 
 <items>
  <item>
