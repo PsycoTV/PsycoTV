@@ -1,51 +1,40 @@
 <items>
  <item>
-      <title>[B][COLOR white]PsycoTV Portal[/COLOR][/B]</title>
-      <thumbnail>http://psyco.tv/icon.png</thumbnail>
+      <title>[B][COLOR red]OFFLINE[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/m3us2/off.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/tv</externallink>
+      <externallink>psyco.tv/m3us2/off.m3u</externallink>
 </item>
 </items>
-
-
-
 <items>
  <item>
-      <title>[COLOR violet]Samsung Freak TV[/COLOR]</title>
-      <thumbnail>http://psyco.tv/sam.png</thumbnail>
+      <title>[B][COLOR red]OFFLINE[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/m3us2/off.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/master/TheSamsungFreakTVMenueTEST</externallink>
+      <externallink>psyco.tv/m3us2/off.m3u</externallink>
 </item>
 </items>
-
-
-
-
-
 <items>
  <item>
-      <title>[COLOR gold]Pavoo TV[/COLOR]</title>
-      <thumbnail>http://pavootv.com/repo/icon.png</thumbnail>
+      <title>[B][COLOR red]OFFLINE[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/m3us2/off.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://pavootv.com/PAVOOTV/menu2.xml</externallink>
+      <externallink>psyco.tv/m3us2/off.m3u</externallink>
 </item>
 </items>
-
-
 <items>
  <item>
-      <title>[COLOR blue]SGK-Portal[/COLOR]</title>
-      <thumbnail>http://psyco.tv/sgk.png</thumbnail>
+      <title>[B][COLOR red]OFFLINE[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/m3us2/off.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://sgkodi.de/SGK-Portal/portal.xml</externallink>
+      <externallink>psyco.tv/m3us2/off.m3u</externallink>
 </item>
 </items>
-
 <items>
  <item>
-      <title>[COLOR grey]WagasWorld Livestreams[/COLOR]</title>
-      <thumbnail>http://absolut-kodi.com/repository/plugin.video.wagasworld/icon.png</thumbnail>
+      <title>[B][COLOR red]OFFLINE[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/m3us2/off.png</thumbnail>
       <link>http://ignoreme</link>
-      <externallink>http://wagasworld.com/Kodi/wwstreamportal.xml</externallink>
+      <externallink>psyco.tv/m3us2/off.m3u</externallink>
 </item>
 </items>
