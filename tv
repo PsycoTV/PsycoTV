@@ -33,14 +33,6 @@
 <item> <item> <title>PsycoTV  [B][COLORpink]German VOD[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gervod.png</fanart> <externallink>http://psyco.tv/m3us2/vod.m3u</externallink> <info></info> <item>
 
 
-<items>
- <item>
-      <title>PsycoTV  [B][COLOR red]XXX[/COLOR][/B]</title>
-      <thumbnail>http://psyco.tv/m3us2/xxx.png</thumbnail>
-      <link>http://ignoreme</link>
-      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/xxx</externallink>
-</item>
-</items>
 
 
 <item> <item> <title>- - - - - - - - - - - - - - - - - - - - - - - - - - - - -<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
