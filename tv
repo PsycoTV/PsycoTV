@@ -16,6 +16,9 @@
 
 <item> <item> <title>PsycoTV  [B][COLORgreen]Radio[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/radio.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/radio.png</fanart> <externallink>http://psyco.tv/m3us2/radio.xml</externallink> <info></info> <item>
 
+<item> <item> <title>PsycoTV [B][COLORgrey]German Next TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/next.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/next.png</fanart> <externallink>http://next.dj-btronic.de/upload/test/2.xml</externallink> <info></info> <item>
+
+
 
 <item> <item> <title>PsycoTV  [B][COLORyellow]German ROB TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/rob/rob.png</thumbnail>	 <fanart>http://psyco.tv/rob/rob.png</fanart> <externallink>http://stream.nmbs.top/lists/Germany.m3u8</externallink> <info></info> <item>
 
