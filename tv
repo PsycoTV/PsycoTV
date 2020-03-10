@@ -1,8 +1,4 @@
 
-
-<item> <item> <title>PsycoTV  [B][COLORgreen]World TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/world.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/world.png</fanart> <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/world</externallink> <info></info> <item>
-
-
 <item> <item> <title>PsycoTV  [B][COLORgreen]German TV 1[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/1.m3u</externallink> <info></info> <item> 
 
 <item> <item> <title>PsycoTV  [B][COLORgreen]German TV 2[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/2.m3u</externallink> <info></info> <item>
@@ -14,9 +10,7 @@
 
 
 
-<item> <item> <title>PsycoTV  [B][COLORgreen]Radio[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/radio.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/radio.png</fanart> <externallink>http://psyco.tv/m3us2/radio.xml</externallink> <info></info> <item>
-
-<item> <item> <title>PsycoTV  [B][COLORgrey]German Next TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/next.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/next.png</fanart> <externallink>http://next.dj-btronic.de/upload/test/2.xml</externallink> <info></info> <item>
+<item> <item> <title>PsycoTV  [B][COLORgrey]German NeXT TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/next.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/next.png</fanart> <externallink>http://next.dj-btronic.de/upload/test/2.xml</externallink> <info></info> <item>
 
 
 
@@ -29,6 +23,12 @@
 
 
 <item> <item> <title>PsycoTV  [B][COLORpink]German VOD[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gervod.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gervod.png</fanart> <externallink>http://psyco.tv/m3us2/vod.m3u</externallink> <info></info> <item>
+
+
+<item> <item> <title>PsycoTV  [B][COLORgreen]World TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/world.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/world.png</fanart> <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/world</externallink> <info></info> <item>
+
+
+<item> <item> <title>PsycoTV  [B][COLORgreen]Radio[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/radio.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/radio.png</fanart> <externallink>http://psyco.tv/m3us2/radio.xml</externallink> <info></info> <item>
 
 
 
