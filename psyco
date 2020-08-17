@@ -20,6 +20,15 @@
 
 <items>
  <item>
+      <title>[COLOR orange]PinguimTV[/COLOR]</title>
+      <thumbnail>http://psyco.tv/ping.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>http://emotions.dj-btronic.de/next/mitglieder/kappi/iHDTV/m3u/ping.m3u</externallink>
+</item>
+</items>
+
+<items>
+ <item>
       <title>[COLOR blue]SGK-Portal[/COLOR]</title>
       <thumbnail>http://psyco.tv/sgk.png</thumbnail>
       <link>http://ignoreme</link>
