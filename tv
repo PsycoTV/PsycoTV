@@ -7,10 +7,11 @@
 
 <item> <item> <title>PsycoTV  [B][COLORgreen]German TV 2[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>http://psyco.tv/m3us2/2.m3u</externallink> <info></info> <item> 
 
+<item> <item> <title>PsycoTV  [B][COLORgreen]German TV 3[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/gertv.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/gertv.png</fanart> <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/New.txt</externallink> <info></info> <item> 
+
 
 <item> <item> <title>  [B][COLORgreen]KDC TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/kdc.jpg</thumbnail>	 <fanart>http://psyco.tv/m3us2/kdc.jpg</fanart> <externallink>https://kdc-repo.website/repo-beta/TV/KDC_DE_TV.m3u</externallink> <info></info> <item>
 
-<item> <item> <title>  [B][COLORgreen]Medusa TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>	 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart> <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/New.txt</externallink> <info></info> <item>
 
 
 <item> <item> <title>PsycoTV  [B][COLORgreen]World TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/m3us2/world.png</thumbnail>	 <fanart>http://psyco.tv/m3us2/world.png</fanart> <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/world</externallink> <info></info> <item>
