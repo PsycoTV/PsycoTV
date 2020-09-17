@@ -7,7 +7,14 @@
 </item>
 </items>
 
-
+<items>
+ <item>
+      <title>[B][COLOR orange]WoppegongTV[/COLOR][/B]</title>
+      <thumbnail>http://psyco.tv/woppegong.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/menu</externallink>
+</item>
+</items>
 
 <items>
  <item>
