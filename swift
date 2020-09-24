@@ -30,4 +30,4 @@
 <item> <item> <title>[B][COLORred]Stabiles LiveTV zum kleinen Preis: [/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
 
 
-<item> <item> <title>[B][COLORyellow]www.psyco.tv/pro[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
+<item> <item> <title>[B][COLORyellow]www.psyco.tv/plus[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
