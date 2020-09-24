@@ -23,3 +23,11 @@
 <item> <item> <title>PsycoTV  [B][COLORgreen]UK[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/uk.png</thumbnail>	 <fanart>http://psyco.tv/telegram/uk.png</fanart> <externallink>http://psyco.tv/swift/Uk.m3u</externallink> <info></info> <item> 
 
 <item> <item> <title>PsycoTV  [B][COLORgreen]USA[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/us.png</thumbnail>	 <fanart>http://psyco.tv/telegram/us.png</fanart> <externallink>http://psyco.tv/swift/Usa.m3u</externallink> <info></info> <item> 
+
+<item> <item> <title>- - - - - - - - - - - - - - - - - - - - - - - - - - - - -<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
+
+
+<item> <item> <title>[B][COLORred]Stabiles LiveTV zum kleinen Preis: [/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
+
+
+<item> <item> <title>[B][COLORyellow]www.psyco.tv/pro[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/icon.png</thumbnail>	 <fanart>http://psyco.tv/icon.png</fanart> <externallink></externallink> <info></info> <item> 
