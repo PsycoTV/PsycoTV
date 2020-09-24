@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,France 2
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/c9a01a30ec58cb6.ts|User-Agent=1m3u8
+#EXTINF:-1,France 3
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/e60f36e66704465.ts|User-Agent=1m3u8
+#EXTINF:-1,France 4
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/a72953eb925dd87.ts|User-Agent=1m3u8
+#EXTINF:-1,France 5
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/3678a884f7d70f8.ts|User-Agent=1m3u8
+#EXTINF:-1,France O
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/dae84abb5a89337.ts|User-Agent=1m3u8
+#EXTINF:-1,France 24
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/e26e5b26b28a8b9.ts|User-Agent=1m3u8
+#EXTINF:-1,TF1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/2d6218a120cc114.ts|User-Agent=1m3u8
+#EXTINF:-1,M6
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/824d2c90049da03.ts|User-Agent=1m3u8
+#EXTINF:-1,M6 MUSIC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/d0ee80ec77e7d33.ts|User-Agent=1m3u8
+#EXTINF:-1,Canal+ Sport 
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/29877984cd44642.ts|User-Agent=1m3u8
+#EXTINF:-1,Canal+ Series
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/450318eaf623a8b.ts|User-Agent=1m3u8
+#EXTINF:-1,Canal+ Family
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/b60bcbd95ada68e.ts|User-Agent=1m3u8
+#EXTINF:-1,Canal+ Cinema
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/56b95380047e5bb.ts|User-Agent=1m3u8
+#EXTINF:-1,CINE PREMIER
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/fcbf66065e69634.ts|User-Agent=1m3u8
+#EXTINF:-1,CINE POLAR
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/11255768e6097f3.ts|User-Agent=1m3u8
+#EXTINF:-1,CINE FX
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/af6f697b51dcfbe.ts|User-Agent=1m3u8
+#EXTINF:-1,CINE FAMIZ
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/23e4ae1d5b89fa8.ts|User-Agent=1m3u8
+#EXTINF:-1,CINE CLASSIC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/5a9981acc2f630b.ts|User-Agent=1m3u8
+#EXTINF:-1,SYFY FRANCE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/4dbd2a91afea5eb.ts|User-Agent=1m3u8
+#EXTINF:-1,Disney Cinemagic
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/5d05fadbed7afb3.ts|User-Agent=1m3u8
+#EXTINF:-1,OCS CHOC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/0f4cee5af68f294.ts|User-Agent=1m3u8
+#EXTINF:-1,OCS MAX
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/37f89d9b14f9886.ts|User-Agent=1m3u8
+#EXTINF:-1,OCS CITY
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/0ad8cc7ebe8a9b1.ts|User-Agent=1m3u8
+#EXTINF:-1,OLTV HD
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/dee5a33dea64b81.ts|User-Agent=1m3u8
+#EXTINF:-1,COMEDIE  HD
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/2e359274268e228.ts|User-Agent=1m3u8
+#EXTINF:-1,GULLI FRANCE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/96390b50fe2f1bc.ts|User-Agent=1m3u8
+#EXTINF:-1,Discovery France
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/fc628ff802bb7a5.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO FRANCE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/ab41521c4f2c0af.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO WILD FRANCE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/0312c19586069bf.ts|User-Agent=1m3u8
+#EXTINF:-1,DISCOVERY SCI FRANCE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/77f315e3bb767e5.ts|User-Agent=1m3u8
+#EXTINF:-1,W9 HD
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/5b7e68ddbf75218.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL9 HD
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/6e6f1df95325d67.ts|User-Agent=1m3u8
+#EXTINF:-1,Boomrang France
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/64f1282cede3e7a.ts|User-Agent=1m3u8
+#EXTINF:-1,ACTION
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/7c7e13a3c5e73f9.ts|User-Agent=1m3u8
+#EXTINF:-1,ANIMAUX
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/b65852f2d073d1e.ts|User-Agent=1m3u8
+#EXTINF:-1,E! ENT FRANCE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/f5ee0ece6130466.ts|User-Agent=1m3u8
+#EXTINF:-1,MANGAS
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/05dce63b400fbb7.ts|User-Agent=1m3u8
+#EXTINF:-1,BFMTV
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/86c9e0d7522693e.ts|User-Agent=1m3u8
+#EXTINF:-1,RFM TV
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/dabcfc79d45b03d.ts|User-Agent=1m3u8
+#EXTINF:-1,MCM TOP
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/e662e6ee564a3f0.ts|User-Agent=1m3u8
+#EXTINF:-1,LEQUIPE 21
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/d0309ef26b029c9.ts|User-Agent=1m3u8
+#EXTINF:-1,GONGMAX
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/cb6d4d195c85d26.ts|User-Agent=1m3u8
+#EXTINF:-1,ZEE MAGIC 
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/France/c4bd16e44638aa0.ts|User-Agent=1m3u8
