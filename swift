@@ -1,4 +1,4 @@
-<item> <item> <title>PsycoTV  [B][COLORgreen]Germany[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/de.png</thumbnail>	 <fanart>http://psyco.tv/telegram/de.png</fanart> <externallink>http://psyco.tv/swift/Deutsch.m3u</externallink> <info></info> <item> 
+<item> <item> <title>PsycoTV  [B][COLORgreen]Germany[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/de.png</thumbnail>	 <fanart>http://psyco.tv/telegram/de.png</fanart> <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/swiftde</externallink> <info></info> <item> 
 
 <item> <item> <title>PsycoTV  [B][COLORgreen]Sports[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/sport.png</thumbnail>	 <fanart>http://psyco.tv/telegram/sport.png</fanart> <externallink>http://psyco.tv/swift/Sports.m3u</externallink> <info></info> <item> 
 
