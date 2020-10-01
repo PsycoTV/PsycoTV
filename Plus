@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://psyco.tv/icon.png",PsycoTV Plus Preview
+plugin://plugin.video.youtube/play/?video_id=5d_SVC6l53w
