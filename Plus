@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://psyco.tv/icon.png",[B][COLORgreen]PsycoTV Plus Preview[/COLOR][/B]《---
+#EXTINF:-1 tvg-logo="http://psyco.tv/icon.png",[B][COLORgreen]PsycoTV Plus Preview[/COLOR][/B] <--- klick mich
 plugin://plugin.video.youtube/play/?video_id=5d_SVC6l53w
 #EXTINF:-1 tvg-logo="http://psyco.tv/icon.png",- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 plugin://plugin.video.youtube/play/?video_id=5d_SVC6l53w
