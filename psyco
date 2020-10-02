@@ -18,6 +18,16 @@
 
 <items>
  <item>
+      <title>[COLOR pink]Pluto TV[/COLOR]</title>
+      <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/41R1LU4PUKL.png</thumbnail>
+      <link>http://ignoreme</link>
+      <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/pluto</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
       <title>[COLOR violet]Samsung Freak TV[/COLOR]</title>
       <thumbnail>http://psyco.tv/sam.png</thumbnail>
       <link>http://ignoreme</link>
