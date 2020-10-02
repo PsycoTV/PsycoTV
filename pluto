@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/solidLogoPNG.png",Pluto TV Movies 1
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/solidLogoPNG.png",Pluto TV Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5c5c3b948002db3c3e0b262e&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false|User-Agent=1m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/solidLogoPNG.png",Pluto TV Movies +
