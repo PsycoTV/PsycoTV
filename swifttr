@@ -1,111 +1,183 @@
 #EXTM3U
-#EXTINF:-1,Tivibu Spor 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/6ae02f4e3431fe6.ts|User-Agent=1m3u8
-#EXTINF:-1,Tivibu Spor 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/a3b9ee9df794287.ts|User-Agent=1m3u8
-#EXTINF:-1,Tivibu Spor 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/4b98faff9f1d88f.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN 1 TURKISH 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e403389501a6e44.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN 2 TURKISH 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/22417dd4698270c.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN 3 TURKISH 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b56aad7153c5e7a.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN IZ
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/a3fd69f0021587f.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN GURME
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/cbe69bd5f2a186f.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN TURK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/808b690529fd228.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN PREMIERE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/fafb2c9d4ec6c11.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN STAR
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e4ed1cf6f8facd4.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN ACTION
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/921b191191cf2a4.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN SERIES DRAMA 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e9f8a005f7219c9.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN SERIES SCI-FI
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/da21502f78f20d3.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN SERIES VICE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/055bcb6af6900db.ts|User-Agent=1m3u8
-#EXTINF:-1,A SPOR
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/4e022661fdc9be7.ts|User-Agent=1m3u8
-#EXTINF:-1,A2 TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/4edccb39ad8a494.ts|User-Agent=1m3u8
-#EXTINF:-1,360 TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b6237feb354a42d.ts|User-Agent=1m3u8
-#EXTINF:-1,KANAL 7
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ed1be52480805ed.ts|User-Agent=1m3u8
-#EXTINF:-1,KANAL D
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/70e6f5f5f15225e.ts|User-Agent=1m3u8
-#EXTINF:-1,BEYAZ TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/3db00323c937382.ts|User-Agent=1m3u8
-#EXTINF:-1,TV 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/5800dff10102df7.ts|User-Agent=1m3u8
-#EXTINF:-1,TV 8
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/1d2726ac46f3278.ts|User-Agent=1m3u8
-#EXTINF:-1,ATV TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/a0ed3680bf08a9c.ts|User-Agent=1m3u8
-#EXTINF:-1,TRT 1 HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b16ae14e355f888.ts|User-Agent=1m3u8
-#EXTINF:-1,TRT MUZIK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/fc16d7409fdfa57.ts|User-Agent=1m3u8
-#EXTINF:-1,TRT TURK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/15d7c96da442963.ts|User-Agent=1m3u8
-#EXTINF:-1,TRT WORLD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/7767e3ecbc106b2.ts|User-Agent=1m3u8
-#EXTINF:-1,SMART SPOR 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/d53e1300a1634b7.ts|User-Agent=1m3u8
-#EXTINF:-1,ANIMAL PLANET TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/fd1bceba5d7202d.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY TRUKSIH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ebbe6e7824a80f8.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY SCI TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/350a09f185cda24.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/1dd96e3ba3cc013.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO TRUKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/c51b1f3d0b80bd1.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO PEOPLE TRUKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ed1f49fc2ecdc5e.ts|User-Agent=1m3u8
-#EXTINF:-1,CNN TURK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/6b1cbc607b71cef.ts|User-Agent=1m3u8
-#EXTINF:-1,DIZI TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/1020274584625a7.ts|User-Agent=1m3u8
-#EXTINF:-1,SINEMA TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b0b0f62a5120a1e.ts|User-Agent=1m3u8
-#EXTINF:-1,SINEMA TV 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/bb0729bdd2a0eca.ts|User-Agent=1m3u8
-#EXTINF:-1,SINEMA TV AILE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ae8c710b3f26a93.ts|User-Agent=1m3u8
-#EXTINF:-1,SINEMA TV AKSIYON
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/ae4ddae3c3ca127.ts|User-Agent=1m3u8
-#EXTINF:-1,SINEMA TV 1001
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/5da6bf990fe9b15.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN BOXOFFICE 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/6a1fe847f143746.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN BOXOFFICE 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/fb00f3cb423198b.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN BOXOFFICE 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/5fdaff84c46bdf3.ts|User-Agent=1m3u8
-#EXTINF:-1,BBC EARTH TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/3fc71c53b62d4aa.ts|User-Agent=1m3u8
-#EXTINF:-1,HISTORY TV TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/b4d948d2d4d3045.ts|User-Agent=1m3u8
-#EXTINF:-1,S Sports
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/d7dff38150e6bea.ts|User-Agent=1m3u8
-#EXTINF:-1,Show Tv
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/98bd0033a441c37.ts|User-Agent=1m3u8
-#EXTINF:-1,Star Tv
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/aafd9e6ed1c7866.ts|User-Agent=1m3u8
-#EXTINF:-1,A HABER
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e86991026d0f4de.ts|User-Agent=1m3u8
-#EXTINF:-1,HABER TURK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/a0a1a051e7b29b9.ts|User-Agent=1m3u8
-#EXTINF:-1,NTV TURK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/28eb9fa90c7128d.ts|User-Agent=1m3u8
-#EXTINF:-1,BLOOMBERG TURKISH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/0b9f06c5f9b197c.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX HD 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/1f356762092a5e1.ts|User-Agent=1m3u8
+#EXTINF:-1,ITV 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/4ac769c18bc1652.ts|User-Agent=1m3u8
+#EXTINF:-1,ITV 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/d98a725296dce2b.ts|User-Agent=1m3u8
+#EXTINF:-1,ITV 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/140230177e7af4d.ts|User-Agent=1m3u8
+#EXTINF:-1,ITV 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/20cb822f21f44be.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/973eb2329efd0e6.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/959ec56f512d335.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/ed1e747781084f7.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/df79b224fc208be.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC NEWS
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/cd86c5b5d7af8ca.ts|User-Agent=1m3u8
+#EXTINF:-1,True Movies
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/13bb87719c0f1eb.ts|User-Agent=1m3u8
+#EXTINF:-1,True Movies 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3b8474674ba7a3d.ts|User-Agent=1m3u8
+#EXTINF:-1,4e
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3ded6447931733f.ts|User-Agent=1m3u8
+#EXTINF:-1,Channel 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8c3f3d49812f040.ts|User-Agent=1m3u8
+#EXTINF:-1,Channel 5
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08ca91f7f84bd3b.ts|User-Agent=1m3u8
+#EXTINF:-1,Gold
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/bdd1619986a2292.ts|User-Agent=1m3u8
+#EXTINF:-1,MORE 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/70241ee158d333a.ts|User-Agent=1m3u8
+#EXTINF:-1,Dave
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/2267b50d1454491.ts|User-Agent=1m3u8
+#EXTINF:-1,Comedy Central
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/0113fa1cdf623f4.ts|User-Agent=1m3u8
+#EXTINF:-1,Fox UK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/212d45e66a5efb0.ts|User-Agent=1m3u8
+#EXTINF:-1,Universal
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/d4bf6a17a994002.ts|User-Agent=1m3u8
+#EXTINF:-1,Watch
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/82085b207de963c.ts|User-Agent=1m3u8
+#EXTINF:-1,Pick TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/ca77c9e10268f70.ts|User-Agent=1m3u8
+#EXTINF:-1,FILM 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/d9e10d83718bc4f.ts|User-Agent=1m3u8
+#EXTINF:-1,TRAVEL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/d58d23d163540e4.ts|User-Agent=1m3u8
+#EXTINF:-1,DISCOVERY HISTORY
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3afe079d67a0d84.ts|User-Agent=1m3u8
+#EXTINF:-1,Discovery Science
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/002393d2e20337c.ts|User-Agent=1m3u8
+#EXTINF:-1,Discovery Turbo
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8c22419685a886e.ts|User-Agent=1m3u8
+#EXTINF:-1,CNBC Europ
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6bfa8c1f619a1c3.ts|User-Agent=1m3u8
+#EXTINF:-1,BLOOMBERG
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3380588c12248ea.ts|User-Agent=1m3u8
+#EXTINF:-1,CBS ACTION
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/69f83fe5301028d.ts|User-Agent=1m3u8
+#EXTINF:-1,CBS DRAMA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/aeb7bf84d2b19eb.ts|User-Agent=1m3u8
+#EXTINF:-1,ALIBI
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3ad8cc961d96f8c.ts|User-Agent=1m3u8
+#EXTINF:-1,TG 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/9ef0057cb0cee8e.ts|User-Agent=1m3u8
+#EXTINF:-1,TCM
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/c23ac9d91bc460f.ts|User-Agent=1m3u8
+#EXTINF:-1,5 Star
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/cf1e96c00e7bc5e.ts|User-Agent=1m3u8
+#EXTINF:-1,FOX MOVIES
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/09b2d9af43932a8.ts|User-Agent=1m3u8
+#EXTINF:-1,MTV UK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/fcc6cdefcc2b7e3.ts|User-Agent=1m3u8
+#EXTINF:-1,MTV CLASSICS
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/0fc65d427a05c2a.ts|User-Agent=1m3u8
+#EXTINF:-1,MTV Base
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/be11b7fbe1991fd.ts|User-Agent=1m3u8
+#EXTINF:-1,MTV Dance
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85f1687ef6f58f5.ts|User-Agent=1m3u8
+#EXTINF:-1,MTV Hits
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/92e4729fbe48939.ts|User-Agent=1m3u8
+#EXTINF:-1,Nat Geo Wild 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/a5ebde7746753c6.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies Disney
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/85496895df7717c.ts|User-Agent=1m3u8
+#EXTINF:-1,3E
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/7a89b7bdc34ebb5.ts|User-Agent=1m3u8
+#EXTINF:-1,TLC
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/97fb275ecf367e5.ts|User-Agent=1m3u8
+#EXTINF:-1,CNN EUROPE
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/9341ed6e3ee5cb0.ts|User-Agent=1m3u8
+#EXTINF:-1,Sky Living
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5fe6eccb5bb70d4.ts|User-Agent=1m3u8
+#EXTINF:-1,Sky Atlantic
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/489bd4440d2141d.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies Premiere
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/94cdea027a31e2c.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMoves Action
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/afc22160ca6371e.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies Comedy
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3377be67cb7798c.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies Family
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6fd1a00eb7e58b7.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies SciFi-Horror
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/960c3206209f72b.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies Crime
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/a35f3f8b073bb97.ts|User-Agent=1m3u8
+#EXTINF:-1,SkyMovies Greats
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/bd4abd9cc3e1d74.ts|User-Agent=1m3u8
+#EXTINF:-1,sky One
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/92d969c10ee51a6.ts|User-Agent=1m3u8
+#EXTINF:-1,sky two
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/daf141ef0f37292.ts|User-Agent=1m3u8
+#EXTINF:-1,RTE 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/403bff31ef433a7.ts|User-Agent=1m3u8
+#EXTINF:-1,RTE 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6a309d063287539.ts|User-Agent=1m3u8
+#EXTINF:-1,AXN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/a4ea4ea399fcb4d.ts|User-Agent=1m3u8
+#EXTINF:-1,HBO
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/c7e00548edf59b5.ts|User-Agent=1m3u8
+#EXTINF:-1,Warner Bros
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6711704a25d2257.ts|User-Agent=1m3u8
+#EXTINF:-1,MN PLUS HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8fc4a41d948aa45.ts|User-Agent=1m3u8
+#EXTINF:-1,DRAMA UK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/7e5ec03740e1e79.ts|User-Agent=1m3u8
+#EXTINF:-1,MNX HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/1a6e3bc5c4b8a63.ts|User-Agent=1m3u8
+#EXTINF:-1,MOVIES NOW HD 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/4f6f526793244b3.ts|User-Agent=1m3u8
+#EXTINF:-1,FOOD NETWORK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/21ba1f0beb1cdd6.ts|User-Agent=1m3u8
+#EXTINF:-1,CBS REALITY
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/24efaf24ef7bcf6.ts|User-Agent=1m3u8
+#EXTINF:-1,TRU TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/e042c3f7e57c8fd.ts|User-Agent=1m3u8
+#EXTINF:-1,YESTARDAY
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/ea4eb5f5c3a4aea.ts|User-Agent=1m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/737602c28ee927e.ts|User-Agent=1m3u8
+#EXTINF:-1,5 USA
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/2ab6174190870f8.ts|User-Agent=1m3u8
+#EXTINF:-1,VH1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6dbf85ac2fc4b58.ts|User-Agent=1m3u8
+#EXTINF:-1,QUEST TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5324424496b19d9.ts|User-Agent=1m3u8
+#EXTINF:-1,Channel 4 Seven
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/1982cbaef6b1533.ts|User-Agent=1m3u8
+#EXTINF:-1,GOOD FOOD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/509052fcfd55fd4.ts|User-Agent=1m3u8
+#EXTINF:-1,SONY BBC EARTH EN 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5adb83710b0ef6d.ts|User-Agent=1m3u8
+#EXTINF:-1,DMAX
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/8ac0eefd8d581b6.ts|User-Agent=1m3u8
+#EXTINF:-1,SYFY UK 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/6e580b74e1115f2.ts|User-Agent=1m3u8
+#EXTINF:-1,RT NEWS 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/62dac5ecb1f31af.ts|User-Agent=1m3u8
+#EXTINF:-1,RTE NEWS 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/3bd2b82a5ce1a17.ts|User-Agent=1m3u8
+#EXTINF:-1,RTE JUNIOR 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/9558ffafff8b61e.ts|User-Agent=1m3u8
+#EXTINF:-1,UTV IRELAND 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5e0a4116d4658e2.ts|User-Agent=1m3u8
+#EXTINF:-1,REALLY TV 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/5fc9f384902e918.ts|User-Agent=1m3u8
+#EXTINF:-1,EDEN TV 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/0d474b87d179c55.ts|User-Agent=1m3u8
+#EXTINF:-1,BLAZE TV 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/9aee6eb57d233a4.ts|User-Agent=1m3u8
+#EXTINF:-1,ITV BE 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/c1d073449356f02.ts|User-Agent=1m3u8
+#EXTINF:-1,ITV ENCORE 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/08fbb4ccdda1886.ts|User-Agent=1m3u8
+#EXTINF:-1,DISCOVERY H & H 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/1181406f239f9df.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC PARLIAMENT 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/43d22b784f6cac9.ts|User-Agent=1m3u8
+#EXTINF:-1,BBC ALBA 
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Uk/97ff51e7392169d.ts|User-Agent=1m3u8
