@@ -1,387 +1,419 @@
 #EXTM3U
-#EXTINF:-1,IPL 2020 ADS FREE IPL 2020 LOW ADS FREE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/49917c1f9e587b6.ts|User-Agent=1m3u8
-#EXTINF:-1,IPL 2020 ADS FREE IPL 2020 MEDIUM ADS FREE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/00308a59c1cdf67.ts|User-Agent=1m3u8
-#EXTINF:-1,IPL 2020 ADS FREE IPL 2020 HIGH ADS FREE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1778747a5e98c7e.ts|User-Agent=1m3u8
 #EXTINF:-1,PTV SPORTS  LOW
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/38ebaefc749b637.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.ts|User-Agent=1m3u8
 #EXTINF:-1,PTV SPORTS  HIGH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c6750413f9166b1.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/a6109060c7f55cc.ts|User-Agent=1m3u8
 #EXTINF:-1,GEO SUPER  LOW
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a9dae5739c99827.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1d0b7e2816cc883.ts|User-Agent=1m3u8
 #EXTINF:-1,GEO SUPER  HIGH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/783eb13fa033ed4.ts|User-Agent=1m3u8
-#EXTINF:-1,TEN SPORTS PAKISTANI
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/213422eb5522e4f.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/034dac64188949b.ts|User-Agent=1m3u8
+#EXTINF:-1,TEN SPORTS PAKISTAN 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b1357bd20ac4ec.ts|User-Agent=1m3u8
+#EXTINF:-1,SONY TEN 1  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7becf4bc9b9fff0.ts|User-Agent=1m3u8
 #EXTINF:-1,SONY TEN 1  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/4cc48a6cb7c8b82.ts|User-Agent=1m3u8
-#EXTINF:-1,SONY TEN 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/4d7f42fdc16692c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f56168cc96f1153.ts|User-Agent=1m3u8
+#EXTINF:-1,SONY TEN 2  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/55c9fec1dea0724.ts|User-Agent=1m3u8
 #EXTINF:-1,SONY TEN 2  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb15bb5b0d62c23.ts|User-Agent=1m3u8
-#EXTINF:-1,SONY TEN 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8ef52302d1cadb.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6fcd730970b191d.ts|User-Agent=1m3u8
+#EXTINF:-1,SONY TEN 3  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cbff89c46c6f03e.ts|User-Agent=1m3u8
 #EXTINF:-1,SONY TEN 3  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/74ba2f467e8d3d5.ts|User-Agent=1m3u8
-#EXTINF:-1,SONY TEN 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/428fbe6043b360b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e860f923649becf.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS FIRST 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/df3e0958ebaab0b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ea25c6a9fbed5e0.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS SELECT 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8fdc36bbe7e754.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/890bd53d39f3ff4.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS SELECT 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fbf35c61f17ed9e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cddb4631573511e.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 1  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1d2d7d5f2db6f32.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e4d6da61cf7c4c8.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 1  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a78d72f0aea5834.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/09fda44a31165a3.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 2  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c3fe1454af7fa5d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/653659cec159425.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 2  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1ff8b736b2e604b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6741c28d30e56c3.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 1 HINDI  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d6cf3524cd26523.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2e119a1d1b46d72.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 1 HINDI  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5f40a23c87d542c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/10fea41ba2701d0.ts|User-Agent=1m3u8
 #EXTINF:-1,STAR SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7e15cbde7b70c06.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/150608ae7a99800.ts|User-Agent=1m3u8
 #EXTINF:-1,SONY SIX 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d3ad3bca2fe107.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2d17d03b443e4b.ts|User-Agent=1m3u8
 #EXTINF:-1,SONY SIX  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ed950e0d2a81762.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/01d25ef273031cf.ts|User-Agent=1m3u8
 #EXTINF:-1,WILLOW CRICKET  LOW
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2380e0367be0033.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/865f4d3edff69de.ts|User-Agent=1m3u8
 #EXTINF:-1,WILLOW CRICKET  HIGH
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a4b32da9220f3eb.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/03d2c472938b034.ts|User-Agent=1m3u8
 #EXTINF:-1,PREMIER SPORTS  1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7019b73755f7a7a.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/173a5b4af389537.ts|User-Agent=1m3u8
 #EXTINF:-1,PREMIER SPORTS  2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/4574ece206d7ba2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c9747cf86596a77.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS NEWS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/9d6f8e5a8de4778.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/33fcb1c13949513.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5d3a8ed6307f176.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b7e15d52b1cf54e.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS MAIN EVENT  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS CRICKET 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ee61c20984c0214.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f505510b171bf1e.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS CRICKET  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3462532f2125979.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS CRICKET  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb99eca985292b1.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS ACTION 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b1549db971054c6.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fbad66271edb1ed.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS ACTION  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/17a9069cb71209c.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS ACTION  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS GOLF 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6358693f7afaaf7.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/4b5960040a7b233.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS GOLF  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/eb4403d1e9fca05.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS GOLF  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/076dd86185cb0b8.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS LEAGUE 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5d6491f48db709a.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS LEAGUE  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/36b6e8e220e1f7a.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS LEAGUE  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS ARENA 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bf2651a9efdd29c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/65e35f7f2a4ce2b.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS ARENA  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d4e267ceb513f65.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS ARENA  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/783628543cc0680.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d1462d2f942fd5f.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2355752cac6cdbe.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS FOOTBALL  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0a1feb222a441c7.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS F1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7dc1df01e023ef2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/30c20aa012bee81.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS F1  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fb8a5d783c80d61.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SPORTS F1  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab67923.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS MIX 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/63b1a8082f7c2d9.ts|User-Agent=1m3u8
-#EXTINF:-1,BT SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fea33ea852eaea6.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/394b7b1295bd293.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS MIX  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/4976a94070e80d1.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS MIX  HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cbf977900ff6f31.ts|User-Agent=1m3u8
 #EXTINF:-1,BT SPORTS 1  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.ts|User-Agent=1m3u8
-#EXTINF:-1,BT SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1e74c19cfaf3f06.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ec9b51d7a3622f6.ts|User-Agent=1m3u8
+#EXTINF:-1,BT SPORTS 1  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3c5f4da6aa1762a.ts|User-Agent=1m3u8
+#EXTINF:-1,BT SPORTS 2  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6bb3fd904f9da04.ts|User-Agent=1m3u8
 #EXTINF:-1,BT SPORTS 2  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.ts|User-Agent=1m3u8
-#EXTINF:-1,BT SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7995eb557304c65.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c2639378ae416b1.ts|User-Agent=1m3u8
+#EXTINF:-1,BT SPORTS 3  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/297489dc463335a.ts|User-Agent=1m3u8
 #EXTINF:-1,BT SPORTS 3  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/225e33924b49477.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY NEWS 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2b6a8e3d4faf13a.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0efc383a77042cb.ts|User-Agent=1m3u8
 #EXTINF:-1,ESPN  U
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/dd4f1cc2927a60d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ca133af557a88aa.ts|User-Agent=1m3u8
 #EXTINF:-1,ESPN  1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1fab05d3a9c9c03.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/12fb30f24c10a6c.ts|User-Agent=1m3u8
 #EXTINF:-1,ESPN  2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1b0acd0e03c5be4.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e846f2a1833c938.ts|User-Agent=1m3u8
 #EXTINF:-1,ESPN  NEWS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/3d091db4fc95a5a.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/21d317e76e9dac8.ts|User-Agent=1m3u8
 #EXTINF:-1,EURO SPORTS 1  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/3ae9f82da9c51d5.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5acf5c112b79c4e.ts|User-Agent=1m3u8
 #EXTINF:-1,EURO SPORTS 1  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/4a252e84491c648.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/258bbd433edbcea.ts|User-Agent=1m3u8
 #EXTINF:-1,EURO SPORTS 2  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c00c8bd7fcdef2d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/559a59e351c88ee.ts|User-Agent=1m3u8
 #EXTINF:-1,EURO SPORTS 2  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2ed7fceff57f4d8.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/17567a92b62a73b.ts|User-Agent=1m3u8
 #EXTINF:-1,BOX NATION 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/05d228e98bdd576.ts|User-Agent=1m3u8
-#EXTINF:-1,SETANTA SPORTS 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/97b1cd0ebf18f06.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8d7b9d1536b67f1.ts|User-Agent=1m3u8
 #EXTINF:-1,UK RACING 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ef754059814f5c2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b02e95dcca3cb0c.ts|User-Agent=1m3u8
 #EXTINF:-1,AT THE RACES 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c24a6ef8375f60c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/294ec567f75f5ae.ts|User-Agent=1m3u8
 #EXTINF:-1,WWE NETWORK 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/3312a49a7ff207e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e57c9beb56b81af.ts|User-Agent=1m3u8
 #EXTINF:-1,Dubai Sports
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fe03e34df205f09.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d5714365ecc67b5.ts|User-Agent=1m3u8
 #EXTINF:-1,MUTV 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c848af26f1764cd.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cc5cc0bd95133bc.ts|User-Agent=1m3u8
 #EXTINF:-1,REAL MADRID 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6a3b182207c2935.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c5fb451bd367aea.ts|User-Agent=1m3u8
 #EXTINF:-1,LFC TV 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2a84e0785ed02b8.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ee78a6d76ba949a.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN SPORTS USA 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/db52fbd1958702e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/600957a14d8ac4f.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN SPORTS NEWS 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a9d4d7c7c8b23e3.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/950186a5d2e3ce0.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 1  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e47c4872d138040.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/231bf167aecdf2b.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 1  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/420d09505358c0d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 2  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e1d3ae3a3d3506e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/43c2c7b22439581.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 2  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d155fbbcf663745.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 3  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e1da54e23a0ffb3.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/34d0ecb91942ec6.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 3  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/33485d6731f65a4.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c1cd9336c20447.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 4  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/947d45d48b58487.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/4796fa5bcddf4bd.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 4  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bb30e347106d408.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cb8e0c630331c99.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 5  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f481fb58e856392.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c73043dfbed2dd.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 5  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/df77619dfafc1ea.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/594192a366a92a2.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 6  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7e2aec003ef4539.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fa0ce095e9977d8.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 6  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2cf919147d27592.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c08342090703c0.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 7  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6363f2bb5e2c2fd.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1a34fd001a49ee5.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 7  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2561cd8334653b4.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/df5181a2955f69f.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 8  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8c6550b37238e2f.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2ae40fd657b0827.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 8  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e8ed1cdba7c10bc.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0655abb3211a4b7.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 9  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a4d31d121f763a1.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e2108e55902c5ac.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 9  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c8a034e8a9e52be.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/66f1baaf1e65744.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 10  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/dca5304ba569e4b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9c4298684643914.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 10  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/295e4e6fa6bf129.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fdf644197a97dd6.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 11  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6f4921915af914b.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 11  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/662141618f7e003.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 12  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8cf3d5a4a3f7767.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/49b00d31f46fa8c.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 12  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bbe964ef769f565.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e90c4f14e943eab.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 13  SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c1f2d27358cd7cf.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/53adf92cf4f0ef7.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN 13  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/caf47adb771fbe6.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3362f1d656c3205.ts|User-Agent=1m3u8
 #EXTINF:-1,Chelsea TV 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0154340d802199f.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b57fe115af0e28a.ts|User-Agent=1m3u8
 #EXTINF:-1,Arena Sports 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/93676c489f2a6c0.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/197cf3f448f47b1.ts|User-Agent=1m3u8
 #EXTINF:-1,Arena Sports 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb4e1b0f7c9e6cb.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/00490feacaf3646.ts|User-Agent=1m3u8
 #EXTINF:-1,Arena Sports 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/eb0da1de030b03c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5835b824e88919b.ts|User-Agent=1m3u8
 #EXTINF:-1,Arena Sports 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c40c1962fb146db.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ce220746856cda4.ts|User-Agent=1m3u8
 #EXTINF:-1,Arena Sports 5 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/19070436b6d9a0d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORT 1 USA 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5888ec20957cf48.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0df4b04f1868d5.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORT 2 USA 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bd90e787ff1385d.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX SPORT 1 NL 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0f841d285c8d187.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX SPORT 2 NL 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/48e471c7e38a460.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX SPORT 3 NL 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bcfcaefa1549ad5.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX SPORT 4 NL 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/24984cbfea9eea2.ts|User-Agent=1m3u8
-#EXTINF:-1,FOX SPORT 5 NL 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6a3fc8ddfa22706.ts|User-Agent=1m3u8
-#EXTINF:-1,TSN SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7326d831bc5a645.ts|User-Agent=1m3u8
-#EXTINF:-1,TSN SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c16258f83c39ef1.ts|User-Agent=1m3u8
-#EXTINF:-1,TSN SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ef4d7a7f929f754.ts|User-Agent=1m3u8
-#EXTINF:-1,TSN SPORTS 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/55afdc1e15d68d4.ts|User-Agent=1m3u8
-#EXTINF:-1,TSN SPORTS 5 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/381efb0ea32b8a8.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c85976dfbe6af22.ts|User-Agent=1m3u8
+#EXTINF:-1,FOX SPORTS NL FOX SPORTS 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6009dca9169ebfa.ts|User-Agent=1m3u8
+#EXTINF:-1,FOX SPORTS NL FOX SPORTS 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e64bde85ba112d0.ts|User-Agent=1m3u8
+#EXTINF:-1,FOX SPORTS NL FOX SPORTS 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1236845a015707e.ts|User-Agent=1m3u8
+#EXTINF:-1,FOX SPORTS NL FOX SPORTS 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e987cd56b65c195.ts|User-Agent=1m3u8
+#EXTINF:-1,FOX SPORTS NL FOX SPORTS 5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/51702187c4f2a28.ts|User-Agent=1m3u8
+#EXTINF:-1,TSN SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3fe954432a70b78.ts|User-Agent=1m3u8
+#EXTINF:-1,TSN SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cd8d9670a9f16c6.ts|User-Agent=1m3u8
+#EXTINF:-1,TSN SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2c8288a5ba9fb4.ts|User-Agent=1m3u8
+#EXTINF:-1,TSN SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c4a43e75c410802.ts|User-Agent=1m3u8
+#EXTINF:-1,TSN SPORTS  5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/97abfa483aed893.ts|User-Agent=1m3u8
 #EXTINF:-1,SPORTSNET WOLRD 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c2193d4946b66df.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0d81e7bf643061.ts|User-Agent=1m3u8
 #EXTINF:-1,SPORTSNET ONTARIO 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6afbb7443ba7844.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/19bf097b3b8d3fa.ts|User-Agent=1m3u8
 #EXTINF:-1,SPORTSNET ONE 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/52b1936c8754917.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5fd981e98263c91.ts|User-Agent=1m3u8
 #EXTINF:-1,SPORTSNET 360 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a0be812c43b7c94.ts|User-Agent=1m3u8
-#EXTINF:-1,AD SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/47d401725ce7acd.ts|User-Agent=1m3u8
-#EXTINF:-1,AD SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ad53bf4cf9abe21.ts|User-Agent=1m3u8
-#EXTINF:-1,AD SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5823a54d5e887f1.ts|User-Agent=1m3u8
-#EXTINF:-1,AD SPORTS 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a576f1c8ee09d11.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN FRANCE 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2c4f45ee33433e6.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN FRANCE 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/168853dbf83d5a3.ts|User-Agent=1m3u8
-#EXTINF:-1,BEIN FRANCE 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/91410d63bfd6e53.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0dcc7d051a2312d.ts|User-Agent=1m3u8
+#EXTINF:-1,AD SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c3960199d8eb9f1.ts|User-Agent=1m3u8
+#EXTINF:-1,AD SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c81348b85b121bc.ts|User-Agent=1m3u8
+#EXTINF:-1,AD SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f2763806c8e1.ts|User-Agent=1m3u8
+#EXTINF:-1,AD SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f827ffb10004e14.ts|User-Agent=1m3u8
+#EXTINF:-1,BEIN FRANCE 1  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fea377d96f202bc.ts|User-Agent=1m3u8
+#EXTINF:-1,BEIN FRANCE 1  HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8907c27630df2d2.ts|User-Agent=1m3u8
+#EXTINF:-1,BEIN FRANCE 2  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c8fa23237e182c.ts|User-Agent=1m3u8
+#EXTINF:-1,BEIN FRANCE 2  HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0b9aca20299f6c3.ts|User-Agent=1m3u8
+#EXTINF:-1,BEIN FRANCE 3  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5d70fa022a7dc21.ts|User-Agent=1m3u8
+#EXTINF:-1,BEIN FRANCE 3  HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/95f03d604dddfc6.ts|User-Agent=1m3u8
 #EXTINF:-1,VIASAT FOOTBALL HD 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6e7805c662675f7.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/512f0a445c8dabb.ts|User-Agent=1m3u8
 #EXTINF:-1,NBA TV 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/540088cf4597712.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1d2dcc704aef15f.ts|User-Agent=1m3u8
+#EXTINF:-1,NBA TV 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/875dc9811a28a1f.ts|User-Agent=1m3u8
 #EXTINF:-1,NBC SN 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ff43a2f1625514d.ts|User-Agent=1m3u8
 #EXTINF:-1,NFL NETWORK 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8b589672dd8a635.ts|User-Agent=1m3u8
-#EXTINF:-1,AlKass Sports 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/9a72dc9fb7b9872.ts|User-Agent=1m3u8
-#EXTINF:-1,AlKass Sports 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6d6f02d79b9f0be.ts|User-Agent=1m3u8
-#EXTINF:-1,AlKass Sports 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/4aef5624d378019.ts|User-Agent=1m3u8
-#EXTINF:-1,AlKass Sports 5 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/055bc00a9d55c38.ts|User-Agent=1m3u8
-#EXTINF:-1,Sports Tv 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/107c42bcb5d1eea.ts|User-Agent=1m3u8
-#EXTINF:-1,Sports Tv 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f761f6f79ecb162.ts|User-Agent=1m3u8
-#EXTINF:-1,Sports Tv 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f982966b84c04e0.ts|User-Agent=1m3u8
-#EXTINF:-1,Sports Tv 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0d55bceff5ffb0c.ts|User-Agent=1m3u8
-#EXTINF:-1,Sports Tv 5 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/97ec5399cec7ae4.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/84314b9f137fb89.ts|User-Agent=1m3u8
+#EXTINF:-1,ALKASS SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6be6b3700777571.ts|User-Agent=1m3u8
+#EXTINF:-1,ALKASS SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/01034cfa80370b5.ts|User-Agent=1m3u8
+#EXTINF:-1,ALKASS SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3a644e33541eefa.ts|User-Agent=1m3u8
+#EXTINF:-1,ALKASS SPORTS  5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/337179b480c3e90.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORTS TV  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORTS TV  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORTS TV  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/67f9ab7537be842.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORTS TV  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORTS TV  5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.ts|User-Agent=1m3u8
 #EXTINF:-1,BENFICA TV 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/86eaa2f749fec25.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORT KLUB 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/3c866a43d0365f8.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORT KLUB 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2f4d168ad76f902.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORT KLUB 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/37336b29ca74c17.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/210313fd9f3e3b4.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORT KLUB  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ede409d4b9e7950.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORT KLUB  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/70df980363ba9de.ts|User-Agent=1m3u8
+#EXTINF:-1,SPORT KLUB  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SP 1 ITALY 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cf6cc2b9f88712d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fd709c1815a904c.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SP 1 DE 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cd7e6c7aa1547c0.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/08c41adad0aa3d7.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY SP 2 DE 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f74da5ab69db0c1.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/93b03a239e20507.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/03edcc2b5d73376.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e9b1dad987ca944.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER SPORTS 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b62f09ad3340ade.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9aed5e671bd7db9.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2ac9f2cea112245.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b49f0981361bcc2.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9fc1ce58c542828.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/29812544341411c.ts|User-Agent=1m3u8
 #EXTINF:-1,ZIGGO SPORTS SELECT 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/156c551dd648852.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/33c6342ad980c33.ts|User-Agent=1m3u8
 #EXTINF:-1,EIR SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/6f09706ec2ca9ba.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/59a32b8e0927147.ts|User-Agent=1m3u8
 #EXTINF:-1,EIR SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/316b596b1d20b60.ts|User-Agent=1m3u8
-#EXTINF:-1,DIGI SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/33f99f5f5d2cc63.ts|User-Agent=1m3u8
-#EXTINF:-1,DIGI SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c4a35acc0045efd.ts|User-Agent=1m3u8
-#EXTINF:-1,DIGI SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/83bc99d55b548f1.ts|User-Agent=1m3u8
-#EXTINF:-1,DIGI SPORTS 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e349111464e6ea2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f428843ef0e57f9.ts|User-Agent=1m3u8
+#EXTINF:-1,DIGI SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/49c69ce8f94fcc8.ts|User-Agent=1m3u8
+#EXTINF:-1,DIGI SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fcc6add807df1ea.ts|User-Agent=1m3u8
+#EXTINF:-1,DIGI SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3bc983629503a65.ts|User-Agent=1m3u8
+#EXTINF:-1,DIGI SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f405dc55686b645.ts|User-Agent=1m3u8
 #EXTINF:-1,FIGHTBOX 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/91f26e423c82ac5.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/51c188e7db0bc23.ts|User-Agent=1m3u8
 #EXTINF:-1,1 SPORTS 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea018e6893825b4.ts|User-Agent=1m3u8
-#EXTINF:-1,SFR SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/82b176b440efc44.ts|User-Agent=1m3u8
-#EXTINF:-1,SFR SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/82fcb74b08cec4e.ts|User-Agent=1m3u8
-#EXTINF:-1,SFR SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b128ba1458b7b8b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0b1945459e6e2f3.ts|User-Agent=1m3u8
+#EXTINF:-1,RMC SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.ts|User-Agent=1m3u8
+#EXTINF:-1,RMC SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df0.ts|User-Agent=1m3u8
+#EXTINF:-1,RMC SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7520f659ff3b580.ts|User-Agent=1m3u8
 #EXTINF:-1,FREE SPORTS 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d7f2ac62af70faf.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5573d2c800be0d3.ts|User-Agent=1m3u8
 #EXTINF:-1,SKY BOX OFFICE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/247133bd999be1b.ts|User-Agent=1m3u8
-#EXTINF:-1,BT SPORTS ESPN 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0b7d4e27c12dade.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/37e80df3fc0f40d.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 3 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/4df7190a8c7e1c8.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 4 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fed94403e7e52ad.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 5 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b0e1f5dee95e4cf.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 6 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/967e331992f6858.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 7 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/56c17d017339643.ts|User-Agent=1m3u8
-#EXTINF:-1,OTE SPORTS 8 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/62a288f58e7e1c3.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5f336ee1004b4a6.ts|User-Agent=1m3u8
+#EXTINF:-1,BT SPORTS ESPN  SD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1455ce9a0e857a.ts|User-Agent=1m3u8
+#EXTINF:-1,BT SPORTS ESPN  HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b5901d4c8158d3.ts|User-Agent=1m3u8
+#EXTINF:-1,OTE SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f0c8c2006198.ts|User-Agent=1m3u8
+#EXTINF:-1,OTE SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1c3082a6a76cae9.ts|User-Agent=1m3u8
+#EXTINF:-1,OTE SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c9abfe327b9456.ts|User-Agent=1m3u8
+#EXTINF:-1,OTE SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/caaca81d1283180.ts|User-Agent=1m3u8
 #EXTINF:-1,ASTRO CRICKET 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd3816bc9875500.ts|User-Agent=1m3u8
-#EXTINF:-1,KSA SPORTS 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/aa1c459c91212ea.ts|User-Agent=1m3u8
-#EXTINF:-1,KSA SPORTS 2 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/045259447d4d063.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/bda503bf258837e.ts|User-Agent=1m3u8
+#EXTINF:-1,KSA SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9ad16aea0ac7e52.ts|User-Agent=1m3u8
+#EXTINF:-1,KSA SPORTS  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3068f15aac3dceb.ts|User-Agent=1m3u8
+#EXTINF:-1,KSA SPORTS  3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/bb083d5180ed5d0.ts|User-Agent=1m3u8
+#EXTINF:-1,KSA SPORTS  4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2e81f7862b00409.ts|User-Agent=1m3u8
 #EXTINF:-1,UFC FIGHT 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/53e18b22ac283d4.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d7d981d1df08d72.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 501
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7c05b2ab77832d8.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7f190eb189a4f60.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 502
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/57da986791e4810.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/195ff07730549d6.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 503
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/26be755c2058bc3.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2f4b8a11419e309.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 504
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/da7c698d2f5fef2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5b4c1a0e7eb0f.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 505
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c1616910bca4002.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 506
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2638a437e16173c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/73b2b02133b51cd.ts|User-Agent=1m3u8
 #EXTINF:-1,FOX SPORTS AUSTRALIA FOX SPORTS 507
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/926312eee0c0f3e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/90d87dcfa543132.ts|User-Agent=1m3u8
 #EXTINF:-1,DIEMA SPORTS  1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c34247082fd07a2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/17e056c7e4df6f0.ts|User-Agent=1m3u8
 #EXTINF:-1,DIEMA SPORTS  2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/be9c8137ced43e2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/58e86e2a2a62cc1.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN SPROTS AUS BEIN SPROTS 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/60c388ff824a133.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN SPROTS AUS BEIN SPROTS 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1291f5184c9bc23.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.ts|User-Agent=1m3u8
 #EXTINF:-1,BEIN SPROTS AUS BEIN SPROTS 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/e8171daba885ee8.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER SPORTS 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce8.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP PSL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5495b09ff7ec581.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP PREMIER LEAGUE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6d3d6ec2a7db9ae.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP LALIGA
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5e58a15ca23b5bb.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP FOOTBALL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ae648b853e24a85.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP CRICKET
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8bb57ded7b99273.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP RUGBY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/48a835548d7d7dd.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP ACTION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2ecd13974bfa5f.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP GRANDSTAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b307ddb280933e.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP VIRETY 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5b459d23aefa01a.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP VIRETY 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5da819055474c3f.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP VIRETY 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/077ddf89aa42439.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP VIRETY 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3c5c197d615211a.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP BLITZ
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1bc81d86f4725bb.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER SPORTS SP MAXIMO
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5300caffeb5023b.ts|User-Agent=1m3u8
+#EXTINF:-1,NBC 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5213346a2ba20c4.ts|User-Agent=1m3u8
+#EXTINF:-1,CBS SPORTS NETWORK 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/520c53bae64456c.ts|User-Agent=1m3u8
+#EXTINF:-1,TNT SPORTS 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b4a828ec90d9805.ts|User-Agent=1m3u8
