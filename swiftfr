@@ -1,87 +1,91 @@
 #EXTM3U
 #EXTINF:-1,France 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/80a3b7c2ba54fe9.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/28d64aa3c40ce6b.ts|User-Agent=1m3u8
 #EXTINF:-1,France 3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/b2e1e5ffc339243.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a139a26e121bdec.ts|User-Agent=1m3u8
 #EXTINF:-1,France 4
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/fd84cfac215d1fc.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/9302c7a4bf6084b.ts|User-Agent=1m3u8
 #EXTINF:-1,France 5
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/17fa3ae613e357b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/871c99557d2773f.ts|User-Agent=1m3u8
 #EXTINF:-1,France O
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/12029499a4813e5.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4c33d89bb7ac426.ts|User-Agent=1m3u8
 #EXTINF:-1,France 24
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/f07312185473d00.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/dcba938c62f7539.ts|User-Agent=1m3u8
 #EXTINF:-1,TF1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/86f792a90bc6379.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1b4d1e3292b3936.ts|User-Agent=1m3u8
 #EXTINF:-1,M6
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/d80bf9b45d7b7b2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d3e4dff0ec193a.ts|User-Agent=1m3u8
 #EXTINF:-1,M6 MUSIC
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/8e4b146c7a0678b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a7ffd112c5a5fa1.ts|User-Agent=1m3u8
 #EXTINF:-1,Canal+ Sport 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/f9f87af1b4cc88e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/fac27a6757f7f5f.ts|User-Agent=1m3u8
 #EXTINF:-1,Canal+ Series
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/5ae94c062fc487e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/f8c64c0bc477545.ts|User-Agent=1m3u8
 #EXTINF:-1,Canal+ Family
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3dc2b55c59f1ebf.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/92d6c36cd267d93.ts|User-Agent=1m3u8
 #EXTINF:-1,Canal+ Cinema
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/c0845ae62195039.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/bf8b47476918e98.ts|User-Agent=1m3u8
 #EXTINF:-1,CINE PREMIER
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/6063d7560adc879.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/63a13b236452d9b.ts|User-Agent=1m3u8
 #EXTINF:-1,CINE POLAR
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/95593f4964f3a52.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d104157fe7529ea.ts|User-Agent=1m3u8
 #EXTINF:-1,CINE FX
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/08611f09aac7edc.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b441e8cc4dabc2e.ts|User-Agent=1m3u8
 #EXTINF:-1,CINE FAMIZ
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/1d99c5b0f6b5b89.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d436385320ba853.ts|User-Agent=1m3u8
 #EXTINF:-1,CINE CLASSIC
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/85727f72481091f.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0e119ddd1c27174.ts|User-Agent=1m3u8
 #EXTINF:-1,SYFY FRANCE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/c53da3b477a3a2b.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b9dc00d2904b374.ts|User-Agent=1m3u8
 #EXTINF:-1,Disney Cinemagic
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/230b0baafb5fd2d.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/d5fcacea0e798f3.ts|User-Agent=1m3u8
 #EXTINF:-1,OCS CHOC
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/74ef78a7a8006e0.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/aeda67b41eae7da.ts|User-Agent=1m3u8
 #EXTINF:-1,OCS MAX
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/4d732a1c4cfaa76.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/f1bc54bef587190.ts|User-Agent=1m3u8
 #EXTINF:-1,OCS CITY
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/4dcade2157cdf0c.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/05e383709325657.ts|User-Agent=1m3u8
 #EXTINF:-1,OLTV HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/acaf9b0e75b69e4.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/53882f0443a0f68.ts|User-Agent=1m3u8
 #EXTINF:-1,COMEDIE  HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/f747ec9a39ce927.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2d5d502f8f7e928.ts|User-Agent=1m3u8
 #EXTINF:-1,GULLI FRANCE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/6ba12f421706612.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/5a80d9399737c76.ts|User-Agent=1m3u8
 #EXTINF:-1,Discovery France
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/fc3c75fc78c0f0e.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1ec60f941fb6135.ts|User-Agent=1m3u8
 #EXTINF:-1,NAT GEO FRANCE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/8d3ff33e8b9a5cb.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0123ec29b67e77e.ts|User-Agent=1m3u8
 #EXTINF:-1,NAT GEO WILD FRANCE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/e3c8d7a9b49e7bd.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/b43597db64072d5.ts|User-Agent=1m3u8
 #EXTINF:-1,DISCOVERY SCI FRANCE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/172c87e263c7367.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1e457b3f409a89d.ts|User-Agent=1m3u8
 #EXTINF:-1,W9 HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/6d23c5dbe0c1bca.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/02bf517e59ac22a.ts|User-Agent=1m3u8
 #EXTINF:-1,RTL9 HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/858c46c0ec16fba.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/1791cb8a42dc145.ts|User-Agent=1m3u8
 #EXTINF:-1,Boomrang France
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/6bbd715d7539654.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/24f065499a0a0c7.ts|User-Agent=1m3u8
 #EXTINF:-1,ACTION
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/c0259ddf8ca03b0.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/a8205d6ff14ba90.ts|User-Agent=1m3u8
 #EXTINF:-1,ANIMAUX
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/844607232c665ed.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/2e036e28134fdb0.ts|User-Agent=1m3u8
 #EXTINF:-1,E! ENT FRANCE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/a929223488d7bba.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/174339ada7db993.ts|User-Agent=1m3u8
 #EXTINF:-1,MANGAS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/a6117ccdc325578.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/700a192f4d09363.ts|User-Agent=1m3u8
 #EXTINF:-1,BFMTV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/8da1f52e0afa88f.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/9531b610fd12cd9.ts|User-Agent=1m3u8
 #EXTINF:-1,RFM TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/ac8bbaf89f65d0a.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/fb8acef7631528c.ts|User-Agent=1m3u8
 #EXTINF:-1,MCM TOP
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3c935c9135c2908.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/04abe0cb22056f3.ts|User-Agent=1m3u8
 #EXTINF:-1,LEQUIPE 21
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/3fbaa0ce77d2001.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/c98414a1a5363d9.ts|User-Agent=1m3u8
 #EXTINF:-1,GONGMAX
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/8328e751ff1c6f2.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/8e03851d87a5d96.ts|User-Agent=1m3u8
 #EXTINF:-1,ZEE MAGIC 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/France/96aa89ab3cbb434.ts|User-Agent=1m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/0304b8f74a6f312.ts|User-Agent=1m3u8
+#EXTINF:-1,PARIS PREMIERE 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/15d03a7eb726387.ts|User-Agent=1m3u8
+#EXTINF:-1,Crime District 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4d0ee106c370505.ts|User-Agent=1m3u8
